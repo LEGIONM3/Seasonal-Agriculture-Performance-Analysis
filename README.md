@@ -416,8 +416,6 @@ Seasonal-Agriculture-Performance-Analysis/
 │   └── Major_Project_Presentation.pptx
 │
 ├── README.md
-│
-└── requirements.txt
 ```
 
 ---
