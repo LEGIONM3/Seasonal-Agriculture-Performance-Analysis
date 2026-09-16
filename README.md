@@ -249,6 +249,9 @@ Findings from the analysis were converted into:
 
 # 📈 Major Analysis Performed
 
+## Univariate & Distribution Analysis
+![Univariate Analysis](images/visualizations/Univariate-Analysis-Visualization.png)
+
 ## Seasonal Performance Analysis
 
 Analysis of:
@@ -259,6 +262,8 @@ Analysis of:
 - Production by Season
 - Water Usage by Season
 
+![Seasonal Performance Analysis](images/visualizations/Seasonal-Performance-Analysis-Visualization.png)
+
 ## Environmental Analysis
 
 Analysis of:
@@ -268,14 +273,28 @@ Analysis of:
 - Humidity Patterns
 - Soil Moisture Levels
 
-## Crop Performance Analysis
+![Environmental Analysis](images/visualizations/Environmental-Analysis-Visualization.png)
+
+## Crop & Economic Performance Analysis
 
 Evaluation of:
 
 - Top Performing Crops
 - Highest Yield Crops
-- Most Profitable Crops
+- Most Profitable Crops (Revenue vs Profit Patterns)
 - Seasonal Crop Trends
+
+![Crop Performance & Economic Analysis](images/visualizations/Crop-Performance-Analysis-Visualization.png)
+
+## Regional Analysis
+
+Comparison of:
+
+- State-wise Performance
+- District-wise Performance
+- Seasonal Regional Differences
+
+![Regional Analysis](images/visualizations/Regional-Analysis-Visualization.png)
 
 ## Resource Utilization Analysis
 
@@ -285,21 +304,10 @@ Analysis of:
 - Fertilizer Usage
 - Resource Efficiency
 
-## Economic Analysis
+![Resource Utilization Analysis](images/visualizations/Resource-Utilization-Analysis-Visualization.png)
 
-Evaluation of:
-
-- Revenue Trends
-- Profitability Patterns
-- Cost-Performance Relationships
-
-## Regional Analysis
-
-Comparison of:
-
-- State-wise Performance
-- District-wise Performance
-- Seasonal Regional Differences
+## Pest & Disease Risk Analysis
+![Disease and Pest Risk Analysis](images/visualizations/Disease-and-Pest-Analysis-Visualization.png)
 
 ## Correlation Analysis
 
@@ -310,6 +318,8 @@ Investigation of relationships between:
 - Profit and Revenue
 - Water Usage and Production
 - Environmental Conditions and Productivity
+
+![Correlation Analysis](images/visualizations/Correlation-Analysis-Visualization.png)
 
 ---
 
